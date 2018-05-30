@@ -1,0 +1,195 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hero{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-family: sofia;
+    color: antiquewhite;
+}
+header{
+    background-image: url("images/new cover.jpg");
+
+    background-size: cover;
+    height:700px;
+    width: 1350px;
+    margin-top: -54px;
+    background-attachment:fixed;
+
+}
+h1{
+
+    font-size: 65px;
+    margin-left: -90px;
+;
+}
+
+.row{
+    max-width: 1140px;
+    margin: 0px;
+
+;
+}
+
+.main-nav{
+
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+
+}
+
+.main-nav li{
+    display: inline-block;
+    margin-left: 40px;
+}
+.main-nav li a{
+    color: antiquewhite;
+    font-size: 17px;
+}
+.main-nav li a:hover{
+    color: darksalmon;
+}
+.btn{
+    border: 1px ;
+    color: white;
+    background-color: burlywood;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 80px;
+    text-decoration: none;
+    font-family: Arial;
+}
+.btn:hover{
+    background-color: antiquewhite;
+    color: burlywood;
+}
+.copy{
+    width: 70%;
+    margin-left: 15%;
+}
+h3:after{
+    width: 100px;
+    height: 2px;
+    background-color:burlywood ;
+    display: block;
+    content: "";
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+.features{
+    margin-top: 2%;
+    font-family: Arial;
+
+}
+.arranging{
+    text-align: justify;
+}
+.fashion h3{
+    margin-top: 60px;
+    top: 60px;
+}
+
+.features h4{
+    text-align: center;
+    color:sienna ;
+    margin-top: 50px;
+}
+.fashion-show{
+    width: 100%;
+}
+.fashion-show li{
+    width: 25%;
+    display: block;
+    float: left;
+}
+.photo{
+    width: 100%;
+    margin: 0
+;
+    overflow: hidden;
+}
+.photo img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+     transition: all 0.2s;
+
+}
+.photo img :hover{
+    transform: scale(2.05);
+}
+.fashion{
+    margin-top: 60px;
+}
+.seasons{
+    margin-top: 60px;
+}
+
+.seasons img{
+    width: 100%;
+    margin-top: 60px;
+    height: 100%;
+ }
+.seasons h4{
+    color:sienna ;
+}
+.testimonier{
+    background-image: url("images/fashion design.jpg");
+    padding-bottom: 80px;
+    padding-top: 80px;
+    color: white;
+
+
+
+}
+.testimonier p{
+    text-align: justify;
+}
+.gap{
+    margin-top: 60px;
+    top:90px;
+}
+.footer{
+    background-color: burlywood;
+    color: white;
+    padding-bottom: 30px;
+    margin-top: 60px;
+
+}
+.wraper{
+
+    width: 200px;
+    color:burlywood ;
+}
+.wraper:hover{
+    color: #0f0f0f;
+
+}
+.again{
+    margin-top: 60px;
+}
+
+.again img{
+    width: 100%;
+    margin-top: 60px;
+    height: 100%;
+}
+.again h4{
+    color:sienna ;
+}
+.text{
+    margin-top: 80px;
+}
+.form{
+    margin-top: 20px;
+}
+.h h3{
+    margin-top: 80px;
+    text-align: center;
+}

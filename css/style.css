@@ -1,0 +1,191 @@
+.active{
+    color:#1b6d85;
+    margin-left: 95px;
+    margin-top: 10px;
+}
+
+
+
+.team{
+    width: 1400px;
+    background-color:#269abc ;
+    color:white ;
+    height: 500px;
+    padding-left: 185px;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+.about{
+    font-size: 40px;
+    }
+
+.text-primary{
+    font-size: 65px;
+    color: #245580;
+    margin-top: 40px;
+}
+
+.text-muted{
+    font-size: 36px;
+    color:#adadad;
+}
+.button1{
+    align-content: center;
+    margin-left: 575px;
+    margin-top: 50px;
+}
+
+.overwiew{
+    margin-left: 575px;
+    margin-top: -450px;
+}
+
+.phone{
+    margin-left: 450px;
+    margin-top: -250px;
+}
+
+.marketing{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.run{
+    margin-left: 750px;
+    margin-top:-300px;
+    color: #122b40;
+}
+.runiton{
+    color: #286090;
+    font-size: 32px;
+}
+
+.group{
+    color:#286090;
+    margin-left: 200px;
+    margin-top: 250px;
+    font-size: 32px;
+}
+.wast{
+    margin-left: 200px;
+    color:black ;
+}
+
+.share{
+    color: #286090;
+    margin-left:200px;
+    margin-top: 50px;
+    font-size: 32px;
+}
+
+.sometimes{
+    margin-left: 200px;
+    color:black ;
+}
+.hc{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.core{
+    margin-left: 275px;
+    margin-top: 85px;
+}
+
+.intergration{
+    margin-left: 700px;
+    margin-top:-500px
+
+}
+
+.serious{
+    margin-left: 700px;
+    font-size: 24px;
+    color: #204d74;
+    margin-top: 10px;
+}
+.hipchat{
+    margin-left:700px;
+}
+
+.fun{
+    margin-left: 700px;
+    font-size: 24px;
+    color: #204d74;
+    margin-top:50px
+}
+.serious-fun{
+    margin-left: 700px;
+    font-size: 24px;
+    color: #204d74;
+    margin-top: 10px;
+}
+
+.get{
+    margin-left: 700px;
+    font-size: 20px;
+}
+
+.blue{
+    background-color:#269abc ;
+    color:white ;
+    height: 350px;
+    width: 1400px;
+    margin-top:50px;
+    text-align: left;
+}
+
+.blue-text{
+    margin-left: 100px;
+    padding: 55px;
+}
+
+.button-server{
+    margin-left:150px ;
+    margin-top: -150px;
+}
+
+.goahead{
+    color: #23527c;
+    font-size: 38px;
+    margin-top: 110px;
+}
+
+.loved-by{
+    color:#8c8c8c;
+    text-align: center;
+    margin-top:50px ;
+}
+.first-app{
+    color:#269abc;
+    font-size:22px;
+    margin-top: 45px;
+}
+
+.jurgen{
+    margin-left: 500px;
+    color: #8c8c8c;
+    margin-top: 45px;
+}
+
+.customer{
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.futures {
+ text-align: center;
+    margin-top: 150px;
+}
+
+.team1{
+    width: 1400px;
+    background-color:#269abc ;
+    color:white ;
+    height: 300px;
+    padding-left: 0px;
+    padding-top: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.google-map{
+    margin-top: 200px;
+}
